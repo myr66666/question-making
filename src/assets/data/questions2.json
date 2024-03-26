@@ -5,22 +5,22 @@
         "type": "select",
         "questions": [
             {
-                "question":"1. 啊啊啊",
+                "question":"1. 中共十六届六中全会通过的（  ），是对构建社会主义和谐社会具有重大指导意义的纲领性文件，反映了建设富强民主文明和谐的社会主义现代化国家的内在要求，体现了全党全国各族人民的共同愿望。",
                 "choice":[
                     {
-                        "content":"A. make sitting in it much better",
+                        "content":"A. 《中共中央关于构建社会主义和谐社会若干重大问题的决定》",
                         "correct":false
                     },
                     {
-                        "content":"B. teach us how to avoid some of the mistakes we often make",
+                        "content":"B. 《中共中央关于加强党的执政能力建设的决定》",
                         "correct":true
                     },
                     {
-                        "content":"C. avoid merging from one lane to the other",
+                        "content":"C. 《中共中央关于制定国民经济和社会发展第十一个五年规划的建议》",
                         "correct":false
                     },
                     {
-                        "content":"D. avoid ruining our day in a traffic jam",
+                        "content":"D. 《中共中央关于完善社会主义市场经济体制若干问题的决定》",
                         "correct":false
                     }
                 ]
