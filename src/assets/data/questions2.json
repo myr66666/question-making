@@ -1,7 +1,689 @@
 [
     {
         "id": "tag1",
-        "name": "阅1",
+        "name": "单选",
+        "type": "select",
+        "questions": [
+            {
+                "question":"1.中共十六届六中全会通过的（  ），是对构建社会主义和谐社会具有重大指导意义的纲领性文件，反映了建设富强民主文明和谐的社会主义现代化国家的内在要求，体现了全党全国各族人民的共同愿望。",
+                "choice":[
+                    {
+                        "content":"A. 《中共中央关于构建社会主义和谐社会若干重大问题的决定》",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. 《中共中央关于加强党的执政能力建设的决定》",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 《中共中央关于制定国民经济和社会发展第十一个五年规划的建议》",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 《中共中央关于完善社会主义市场经济体制若干问题的决定》",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"2. 党中央作出试办深圳、珠海、汕头、厦门特区的重大决策(1985年把特区改为经济特区)是在（  ）年。",
+                "choice":[
+                    {
+                        "content":"A. 1978",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 1979",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. 1980",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 1981",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"3. 革命失败，中国共产党从中得到的最深刻的教训是(  )。①要掌握革命武装②要制定彻底的革命纲领③必须建立巩固的工农联盟④无产阶级必须掌握革命领导权",
+                "choice":[
+                    {
+                        "content":"A. ①③④",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. ①④",
+                        "correct":true
+                    },
+                    {
+                        "content":"C. ②③④",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. ②③",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"4. 中共十七大关于党章（修正案）决议，第一次将（  ）写入党章。",
+                "choice":[
+                    {
+                        "content":"A. 科学发展观",
+                        "correct":true
+                    },
+                    {
+                        "content":"B. “三个代表”重要思想",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 全面建设小康社会",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 中国特色社会主义理论体系",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"5. （  ），中国共产党第一次全国代表大会在（  ）开幕。",
+                "choice":[
+                    {
+                        "content":"A. 1921年7月1日，南京",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 1921年7月21日，上海",
+                        "correct":false
+                    },
+                    {
+                        "content":"C. 1921年7月23日，上海",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. 1921年7月30日，南京",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. 1925年6月11日，上海举行群众大会，到会20多万人，全国各地约有1700万人直接参加了运动。这场反对帝国主义的民族运动浪潮，史称（）。",
+                "choice":[
+                    {
+                        "content":"A. 香港海员罢工",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 京汉铁路工人罢工",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.五卅运动",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. 北伐战争",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"6. 1925年6月11日，上海举行群众大会，到会20多万人，全国各地约有1700万人直接参加了运动。这场反对帝国主义的民族运动浪潮，史称（）。",
+                "choice":[
+                    {
+                        "content":"A. 香港海员罢工",
+                        "correct":false
+                    },
+                    {
+                        "content":"B. 京汉铁路工人罢工",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.五卅运动",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. 北伐战争",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"7.  1949年4月21日，毛泽东、朱德发布了向全国进军的命令。由总前委书记（）统一指挥的第二、第三野战军（原中原野战军和华东野战军）发起渡江战役，一举摧毁了国民党军的“长江防线”。",
+                "choice":[
+                    {
+                        "content":"A. 邓小平",
+                        "correct":true
+                    },
+                    {
+                        "content":"B.粟裕",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.粟裕",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 粟裕",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"8. 十八届三中全会指出，我国全面深化改革的出发点和落脚点是（）。",
+                "choice":[
+                    {
+                        "content":"A. 为人民服务",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.立党为公、执政为民",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.促进社会公平正义、增进人民福祉",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. 实现中国梦",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"9.  “林县人民多壮志，誓把河山重安排”，被称为“人工天河”的红旗渠全长多少公里？",
+                "choice":[
+                    {
+                        "content":"A. 1200公里",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.1500公里",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.1600公里",
+                        "correct":false
+                    },
+                    {
+                        "content":"D. 1700公里",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"10.  皖南事变反映出（ ）。",
+                "choice":[
+                    {
+                        "content":"A. 蒋介石集团企图重演四一二反革命政变故技",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.国民政府的政策重心开始由抗日转向反共",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.在民族危机深重之时，蒋介石集团既要反共又不敢与中国共产党完全决裂",
+                        "correct":true
+                    },
+                    {
+                        "content":"D. 民族统一战线中的阶级斗争成为国内主要矛盾",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"11.  从（ ）开始，五年计划开始改为国民经济和社会发展计划。",
+                "choice":[
+                    {
+                        "content":"A.“四五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.“五五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.“七五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.“六五”计划",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"11.  从（ ）开始，五年计划开始改为国民经济和社会发展计划。",
+                "choice":[
+                    {
+                        "content":"A.“四五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.“五五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.“七五”计划",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.“六五”计划",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"12.南京国民政府形式上完成对全国统一的标志是（ ）。",
+                "choice":[
+                    {
+                        "content":"A.东北易帜",
+                        "correct":true
+                    },
+                    {
+                        "content":"B.北伐部队占领北京",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.“中原大战结束",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.宁汉合流",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"13.关于中共十二大，下列阐述错误的一项是（ ）。",
+                "choice":[
+                    {
+                        "content":"A.1984年9月在北京召开帜",
+                        "correct":true
+                    },
+                    {
+                        "content":"B.大会提出了到20世纪末使人民的物质文化生活达到小康水平京",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.通过了新的《中国共产党章程》",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.提出努力建设高度的社会主义精神文明和高度的社会主义民主",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"14.在20世纪30年代，中国共产党领导的文学界成立的组织是（ ）。",
+                "choice":[
+                    {
+                        "content":"A.共进会",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.左翼作家联盟京",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.文学研究会",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.文学社",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"15.明确规定毛泽东思想是中国共产党的指导思想的会议是（ ）",
+                "choice":[
+                    {
+                        "content":"A.遵义会议",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.洛川会议",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.中共七大",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.中共八大",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"16. 由旧民主主义革命转变为新民主主义革命的标志是（ ）。",
+                "choice":[
+                    {
+                        "content":"A.新文化运动",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.五卅运动",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.五四运动",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.中国共产党的成立",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"17. 根据遵义会议精神，在红军转战至川滇黔交界时，政治局常委进行分工，决定由（ ）代替博古负党中央总的责任。",
+                "choice":[
+                    {
+                        "content":"A.毛泽东",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.周恩来",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.张稼祥",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.张闻天",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"18.中国新民主主义革命胜利的三大法宝：（  ）、武装斗争、党的建设。",
+                "choice":[
+                    {
+                        "content":"A.土地革命",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.党的领导",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.群众路线",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.统一战线",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"19. “三个代表”是江泽民同志多次阐述过的一个重要思想，其首次提出是在（  ）。",
+                "choice":[
+                    {
+                        "content":"A.1999年12月",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.2000年2月",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.2000年12月",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.2001年2月",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"20. “长期共存、互相监督、肝胆相照、荣辱与共”，中国共产党与民主党派之间合作的这一方针提出的时间是（  ）。",
+                "choice":[
+                    {
+                        "content":"A.第一届人民政协召开时",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.中共十一届三中全会以后",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.新中国国民经济恢复时期",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.社会主义建设全面开展时期",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"21. 下列关于中共十一届三中全会，表述不正确的一项是（  ）。",
+                "choice":[
+                    {
+                        "content":"A.全会的中心议题是讨论把全党工作的重点转移到社会主义现代化建设上来",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.重新确立了马克思主义实事求是的思想路线",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.邓小平主持了会议并发表了重要讲话",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.全会作出了实行改革开放的新决策，启动了农村改革的新进程",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"22.  国共十年对峙时期，把马克思主义的普遍真理同中国革命具体实践相结合的光辉典范是（  ）。",
+                "choice":[
+                    {
+                        "content":"A.湘赣边秋收起义",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.三湾改编",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.武装反抗国民党方针的确定",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.“工农武装割据”思想的提出",
+                        "correct":true
+                    }
+                ]
+            },
+            {
+                "question":"23.  我国社会主义建设新时期爱国统一战线的三个组成部分是（  ）。①台、港、澳同胞②拥护祖国统一的爱国者③海外同胞④社会主义劳动者⑤拥护社会主义的爱国者",
+                "choice":[
+                    {
+                        "content":"A.①②⑤",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.②③④",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.②④⑤",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.①③④",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"24.  第一次提出“毛泽东思想”这一概念的是（  ）。",
+                "choice":[
+                    {
+                        "content":"A.刘少奇",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.王稼祥",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.周恩来",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.邓小平",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"25.  到现在为止的中国近现代史，时间最短的阶段是（ ）。",
+                "choice":[
+                    {
+                        "content":"A.民主革命阶段",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.旧民主主义革命阶段",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.新民主主义革命阶段",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.社会主义革命和建设时期",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"26. 通过《抗日救国十大纲领》的会议是（ ）",
+                "choice":[
+                    {
+                        "content":"A.遵义会议",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.瓦窑堡会议",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.洛川会议",
+                        "correct":true
+                    },
+                    {
+                        "content":"D.中共七大",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"27. 】 1949年上半年，毛泽东提出了三条基本外交方针，不包括（ ）。",
+                "choice":[
+                    {
+                        "content":"A.“另起炉灶”",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.“一致对外”",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.“打扫干净屋子再请客”",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.“一边倒”",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"28. 国民党第一次代表大会选出国民党中央执行委员会，其中，共产党人占总数的（ ）。",
+                "choice":[
+                    {
+                        "content":"A.1/3”",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.1/3",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.0.5",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.1/5",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"29. 1939年7月，刘少奇在延安马列学院作了（  ）的著名演讲。",
+                "choice":[
+                    {
+                        "content":"A.《论共产党员的修养》",
+                        "correct":true
+                    },
+                    {
+                        "content":"B.《论党》",
+                        "correct":false
+                    },
+                    {
+                        "content":"C.《论党内斗争》",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.《论抗日民主政权》",
+                        "correct":false
+                    }
+                ]
+            },
+            {
+                "question":"30. 中国共产党第一次制定反帝反封建民主革命纲领的会议是（  ）。",
+                "choice":[
+                    {
+                        "content":"A.中共一大",
+                        "correct":false
+                    },
+                    {
+                        "content":"B.中共二大",
+                        "correct":true
+                    },
+                    {
+                        "content":"C.中共三大",
+                        "correct":false
+                    },
+                    {
+                        "content":"D.中共四大",
+                        "correct":false
+                    }
+                ]
+            }
+
+
+        
+        ]
+    },
+    {
+        "id": "tag2",
+        "name": "多选",
         "type": "select",
         "questions": [
             {
@@ -45,32 +727,12 @@
                         "correct":true
                     }
                 ]
-            },
-            {
-                "question":"1. 中共十六届六中全会通过的（  ），是对构建社会主义和谐社会具有重大指导意义的纲领性文件，反映了建设富强民主文明和谐的社会主义现代化国家的内在要求，体现了全党全国各族人民的共同愿望。",
-                "choice":[
-                    {
-                        "content":"A. 《中共中央关于构建社会主义和谐社会若干重大问题的决定》",
-                        "correct":true
-                    },
-                    {
-                        "content":"B. 《中共中央关于加强党的执政能力建设的决定》",
-                        "correct":false
-                    },
-                    {
-                        "content":"C. 《中共中央关于制定国民经济和社会发展第十一个五年规划的建议》",
-                        "correct":false
-                    },
-                    {
-                        "content":"D. 《中共中央关于完善社会主义市场经济体制若干问题的决定》",
-                        "correct":false
-                    }
-                ]
             }
+            
         ]
     },
     {
-        "id": "tag2",
+        "id": "tag5",
         "name": "判断",
         "type": "select",
         "questions": [
@@ -100,27 +762,11 @@
                     }
                 ]
             }
-            
-        ]
-    },
-    {
-        "id": "tag5",
-        "name": "译",
-        "type": "qanda",
-        "questions": [
-            {
-                "question":"1. There’s a lot of interesting science behind traffic, though, and while understanding it might not make sitting in it any better, it can teach you how to avoid some of the mistakes we all make behind the wheel. (para. 1)",
-                "answer":"交通背后也有很多有趣的知识。虽然知道这些可能不会使情况有所好转，但却能教会你如何避免开车时所犯的种种错误。"
-            },
-            {
-                "question":"2. If you do that, traffic will fall into a more natural pattern called a “zipper merge”,    meaning there are no surprises, no sudden braking, and a smoother transition from one lane to another, which cuts down on backups. (para. 3)",
-                "answer":"这样一来，交通就会呈现出一种更加自然、称为“拉链式并道”的模式，也就是说，不会吓人一跳，没有突然刹车，而是平稳地从一车道并入另一车道，这样就会减少拥堵。"
-            }
         ]
     },
     {
         "id": "tag6",
-        "name": "热",
+        "name": "填空",
         "type": "qanda",
         "questions": [
             {
